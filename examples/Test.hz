@@ -1,0 +1,9 @@
+import std.io;
+
+function main() {
+    let test = 0;
+    if (test >= 0) {
+        println("Hello bye!");
+    }
+    println("Hello, world!");
+}
